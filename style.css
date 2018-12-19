@@ -1,0 +1,17 @@
+body{
+    background-image: url(2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+	
+}
+
+
+
+button{
+    background-color: red;
+    color: yellow;
+}
+
+input{
+    background-color:  silver;
+}
